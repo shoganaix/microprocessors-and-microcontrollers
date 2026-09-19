@@ -1,6 +1,6 @@
 # Microprocessors and Microcontrollers
 
-This repository contains practical **projects** developed for the *Microprocessors and Microcontrollers* course during my **Industrial Electronics and Automation Engineering degree**
+This repository contains practical **projects** developed for the *Microprocessors and Microcontrollers* course during my **Industrial Electronics and Automation Engineering microdegree**
 
 The focus of this repository is embedded systems programming, hardware interaction, and low-level control using Arduino and Raspberry Pi platforms.
 
