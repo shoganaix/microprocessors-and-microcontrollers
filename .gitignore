@@ -1,0 +1,17 @@
+# Windows / Office lock and temp files
+~$*
+*.tmp
+*.tmp.*
+*~*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Build / IDE noise
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
